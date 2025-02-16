@@ -1,1 +1,1 @@
-# Codsoft-Task-1---Number-Game
+# Codsoft-Task-1-Number-Game
